@@ -1,6 +1,6 @@
 # vscode-luogu
 
-轻松的让你在 VSCode 上使用洛谷。
+轻松的让你在 VSCode 上使用洛谷。 
 
 ## 使用说明
 
